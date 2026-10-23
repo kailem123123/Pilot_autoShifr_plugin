@@ -1,0 +1,10 @@
+# Visual Studio and local user settings
+.vs/
+*.user
+*.suo
+
+# Build output and intermediate files
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.cache
